@@ -9,7 +9,8 @@
 
 ## 개발 환경
 * Window10
-* python
+* python 3.7.5
+* Visual Studio Code
 
 ## 개발 목차
 * selenium 패키지 불러오기
