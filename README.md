@@ -4,7 +4,7 @@
 * python selenium을 활용해 만든 daum 메일 자동 전송 프로그램.
 
 ## 구현 화면
-* 정상 재생 속도입니다.
+* 정상 재생 속도입니다.<br/>
 ![ezgif com-resize](https://user-images.githubusercontent.com/55618626/71544017-52077680-29bd-11ea-9e67-1a7b7e1a2520.gif)
 
 ## 개발 환경
